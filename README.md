@@ -14,7 +14,7 @@ The hospital chosen is for completing university coursework purpose only.</b>
 
 <h3>Features of the application:</h3>
 1. Allow mobile application user to make a telephone call to the emergency services when an immediate medical response is needed.
-</br>2. Simple Step Counter to allow user to track their steps.
+2. Simple Step Counter to allow user to track their steps.
 </br>3. Allow patient to create a reminder on their medical appointments.
 </br>4. Allow patient to view their medical record and their personal information.
 </br><h3>Sensors used:</h3>
