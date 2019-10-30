@@ -3,8 +3,7 @@ A mobile application developed for patients’ to keep up with their medical app
 The application is completed in a team of 3 members.
 </br>Development tools: Android Studio
 </br>Database use: Firebase Realtime Database
-</br><b>VERY IMPORTANT: The application is for university coursework use. 
-The hospital chosen is for completing university coursework purpose only.</b>
+</br><b>VERY IMPORTANT: The application developed is for university coursework use only. The hospital chosen is for completing university coursework purpose only.</b>
 </br><h3>Objectve of the application: </h3>
 - To develop a mobile application to improve patients’ or visitor’s experience with Johns Hopkins Hospital.
 - To develop a mobile application where users’ own information is not exposed to other user
@@ -14,7 +13,7 @@ The hospital chosen is for completing university coursework purpose only.</b>
 
 <h3>Features of the application:</h3>
 1. Allow mobile application user to make a telephone call to the emergency services when an immediate medical response is needed.
-2. Simple Step Counter to allow user to track their steps.
+</br>2. Simple Step Counter to allow user to track their steps.
 </br>3. Allow patient to create a reminder on their medical appointments.
 </br>4. Allow patient to view their medical record and their personal information.
 </br><h3>Sensors used:</h3>
