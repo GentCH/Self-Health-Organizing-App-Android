@@ -5,14 +5,14 @@ The application is completed in a team of 3 members.
 </br>Database use: Firebase Realtime Database
 </br><b>VERY IMPORTANT: The application is for university coursework use. 
 The hospital chosen is for completing university coursework purpose only.</b>
-</br><h2>Objectve of the application: </h2>
+</br><h3>Objectve of the application: </h3>
 - To develop a mobile application to improve patients’ or visitor’s experience with Johns Hopkins Hospital.
 - To develop a mobile application where users’ own information is not exposed to other user
 - To implement suitable function for the mobile application.
 - To implement appropriate sensors to enhance users’ experience in using the application.
 - To implement real time database in the mobile application where user always get the latest information.
 
-</br><h2>Features of the application:</h2>
+<h3>Features of the application:</h3>
 </br>1. Allow mobile application user to make a telephone call to the emergency services when an immediate medical response is needed.
 </br>2. Simple Step Counter to allow user to track their steps.
 </br>3. Allow patient to create a reminder on their medical appointments.
