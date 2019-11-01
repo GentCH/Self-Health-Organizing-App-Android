@@ -18,8 +18,8 @@ The application is completed in a team of 3 members.
 </br>4. Allow patient to view their medical record and their personal information.
 </br><h3>Sensors used:</h3>
 - Voice to text: Change to respective function/interface based on user's input 
-- Gyroscope: Use in step counter
-- Accelerometer: Use to prompt voice to text function based on device tilting speed
+</br>- Gyroscope: Use in step counter
+</br>- Accelerometer: Use to prompt voice to text function based on device tilting speed & Used in step counter
 
 </br>Screenshots of the application:
 
